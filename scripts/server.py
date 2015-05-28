@@ -16,7 +16,7 @@ class MySambaClass():
 		badge = Credentials()
 		badge.guess(lp)
 		badge.set_username('Administrator')
-		badge.set_password('KAjohansen1*1')
+		badge.set_password('pa$$w0rd!')
 
 		print("Getting users")
 					
